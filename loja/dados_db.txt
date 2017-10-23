@@ -1,0 +1,3 @@
+banco: u530901205_loja
+usuarui: u530901205_loja
+senha: rootroot
